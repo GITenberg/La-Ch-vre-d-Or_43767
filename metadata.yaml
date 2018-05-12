@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39763'
     url: http://www.gutenberg.org/2009/agents/39763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43767#La-Ch-vre-d-Or
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-09-19'
 gutenberg_type: Text
