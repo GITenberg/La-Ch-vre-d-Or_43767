@@ -1,0 +1,30 @@
+_repo: La-Ch-vre-d-Or_43767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43767-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arène, Paul
+    aliases:
+    - Arene, Paul Auguste
+    - Arène, Paul Auguste
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '39763'
+    url: http://www.gutenberg.org/2009/agents/39763
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43767'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: La Chèvre d'Or
+url: http://www.gutenberg.org/ebooks/43767
